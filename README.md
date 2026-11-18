@@ -19,7 +19,7 @@ pip install -r requirements.txt
 python speed_test.py <адрес>
 ```
 
-Пример (файл ~10 Мбит):
+Пример (файл ~10 Мб):
 
 ```bash
 python speed_test.py https://proof.ovh.net/files/10Mb.dat
