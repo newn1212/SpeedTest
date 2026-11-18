@@ -16,10 +16,10 @@ pip install -r requirements.txt
 ## Запуск
 
 ```bash
-python speed_test.py <адрес>
+python speed_test.py <адрес>git add .
 ```
 
-Пример (файл ~10 Мб):
+Пример (файл ~10 МБ):
 
 ```bash
 python speed_test.py https://proof.ovh.net/files/10Mb.dat
