@@ -16,7 +16,7 @@ pip install -r requirements.txt
 ## Запуск
 
 ```bash
-python speed_test.py <адрес>git add .
+python speed_test.py <адрес>
 ```
 
 Пример (файл ~10 МБ):
